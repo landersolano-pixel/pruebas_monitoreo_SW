@@ -1,0 +1,14 @@
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\bin\Debug\net8.0\SolidWorksProfileMonitor.exe
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\bin\Debug\net8.0\SolidWorksProfileMonitor.deps.json
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\bin\Debug\net8.0\SolidWorksProfileMonitor.runtimeconfig.json
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\bin\Debug\net8.0\SolidWorksProfileMonitor.dll
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\bin\Debug\net8.0\SolidWorksProfileMonitor.pdb
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\SolidWorksProfileMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\SolidWorksProfileMonitor.AssemblyInfoInputs.cache
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\SolidWorksProfileMonitor.AssemblyInfo.cs
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\SolidWorksProfileMonitor.csproj.CoreCompileInputs.cache
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\SolidWorksProfileMonitor.dll
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\refint\SolidWorksProfileMonitor.dll
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\SolidWorksProfileMonitor.pdb
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\SolidWorksProfileMonitor.genruntimeconfig.cache
+C:\Users\lsr973\Documents\DEMOS\SolidWorksProfileMonitor\obj\Debug\net8.0\ref\SolidWorksProfileMonitor.dll
